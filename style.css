@@ -1,6 +1,9 @@
 h1{
     color: rgb(165, 42, 42);
     background-color: rgb(243, 192, 130);
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
 }
 
 body{
@@ -8,6 +11,11 @@ body{
 }
 
 a{
-    background-color: rgb(243, 192, 130);
+    background-color: rgba(243, 192, 130, 0.445);
     color: rgb(165, 42, 42);
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 8px;
 }
